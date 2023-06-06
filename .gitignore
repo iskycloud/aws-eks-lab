@@ -28,3 +28,6 @@ crash.*.log
 
 
 # Ignore CLI configuration files
+
+# Custom
+temp.md
